@@ -1,0 +1,23 @@
+{
+  "name": "tcc",
+  "version": "1.0.0",
+  "description": "tcc",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauBoaventura/TCC.git"
+  },
+  "author": "Mauricio Boaventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauBoaventura/TCC/issues"
+  },
+  "homepage": "https://github.com/MauBoaventura/TCC#readme",
+  "dependencies": {
+    "mongod": "^2.0.0",
+    "mongodb": "^3.5.3"
+  }
+}
