@@ -4,7 +4,7 @@
   "description": "tcc",
   "main": "file.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node A_teste_apenas_10_e_limpa.js"
   },
   "repository": {
     "type": "git",
